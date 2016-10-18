@@ -4,7 +4,7 @@
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
 
-    <property name="main-class"  value="cc.engeld.test_git_st"/>
+    <property name="main-class"  value="com.test.git.st.Main"/>
 
     <target name="clean">
         <delete dir="${dir.build}"/>
